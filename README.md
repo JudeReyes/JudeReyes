@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Jude Reyes 👋
 
-<!--
-**JudeReyes/JudeReyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Virtual Assistant | Workflow Automation | WordPress | AI Automation
 
-Here are some ideas to get you started:
+## 🎥 Video Introduction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Watch my 1-minute introduction:
+
+https://youtu.be/wBd1EbLHBpA
+
+## 🌐 Portfolio
+
+https://jude-va-portfolio.lovable.app/
+
+## 💼 LinkedIn
+
+https://www.linkedin.com/in/judereyes0618
+
+## 🚀 Featured Projects
+
+- Zapier Lead Capture Automation
+- Make.com Client Booking Automation
+- WordPress Business Website
+- Notion Business Operating System
