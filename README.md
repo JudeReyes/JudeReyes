@@ -1,6 +1,6 @@
 # Hi there, I'm Jude Reyes 👋
 
-# Technical Virtual Assistant | Workflow Automation | AI Automation | WordPress
+# Technical Virtual Assistant | Workflow Automation | WordPress
 
 I help entrepreneurs and small businesses automate repetitive tasks, organize business systems, and build efficient digital workflows using modern automation tools.
 
