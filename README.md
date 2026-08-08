@@ -2,9 +2,11 @@
 
 # Technical Virtual Assistant | Workflow Automation | WordPress
 
-I help entrepreneurs and small businesses automate repetitive tasks, organize business systems, and build efficient digital workflows using modern automation tools.
+I design and build practical automation systems, business workflows, web solutions, and technical support systems for small businesses and entrepreneurs.
 
-With **11 years of experience in electronics manufacturing and quality assurance**, I bring strong analytical thinking, technical troubleshooting, documentation skills, attention to detail, and a process-driven mindset to every project.
+My technical background includes **11 years in electronics manufacturing and quality assurance**, where I developed strong skills in process control, technical troubleshooting, documentation, root-cause analysis, accuracy, and continuous improvement.
+
+I now apply that process-driven approach to **workflow automation, API integrations, CRM systems, WordPress, web development, and digital business operations.**
 
 ---
 
@@ -16,105 +18,185 @@ Click below to watch my 1-minute introduction.
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Technical Projects
 
-## 🤖 Automated Lead Capture System
+## 🤖 Automated Lead Capture & CRM Workflow
+
+### Architecture
+
+**Google Forms → Zapier → HubSpot CRM → Google Sheets → Gmail → Slack**
 
 ### Workflow
 
-**Google Forms → HubSpot CRM → Google Sheets → Gmail → Slack**
+1. Capture lead information through Google Forms
+2. Trigger the automation through the connected workflow
+3. Create or update the contact in HubSpot CRM
+4. Record lead information in Google Sheets
+5. Send an automated Gmail notification
+6. Send a real-time Slack notification
 
-### What I Built
+### Technical Components
 
-An automated lead management workflow that captures inquiries, creates CRM records, synchronizes lead information, sends confirmation emails, and delivers real-time Slack notifications.
-
-### Tools Used
-
-* Zapier
-* HubSpot CRM
+* Zapier workflows
+* HubSpot CRM integration
 * Google Forms
 * Google Sheets
 * Gmail
 * Slack
+* Field mapping
+* Multi-step automation
+* Data synchronization
+* Workflow testing and troubleshooting
+
+### Skills Demonstrated
+
+**Automation Logic | CRM Integration | Data Mapping | Process Automation | Notifications | Troubleshooting**
 
 ---
 
-## 📅 Client Booking Automation
+## 📅 Automated Client Booking System
+
+### Architecture
+
+**Google Forms → Google Sheets → Make.com → Notion / Google Drive / Google Calendar**
 
 ### Workflow
 
-**Google Forms → Google Sheets → Make.com → Notion → Google Calendar → Google Meet**
+1. Capture client booking information
+2. Store submitted data in Google Sheets
+3. Trigger the Make.com scenario
+4. Process and map booking fields
+5. Create structured client information in Notion
+6. Organize supporting files in Google Drive
+7. Create a Google Calendar event
+8. Generate Google Meet information for the scheduled meeting
 
-### What I Built
+### Technical Components
 
-A multi-step booking workflow that automates client record creation, organizes information in Notion and Google Drive, and creates Google Calendar events with Google Meet details.
-
-### Tools Used
-
-* Make.com
-* Notion
-* Google Drive
-* Google Calendar
+* Make.com scenarios
+* Google Sheets data source
+* Notion database integration
+* Google Drive integration
+* Google Calendar API integration
 * Google Meet
+* Date and time field mapping
+* Time zone handling
+* Data transformation
+* Scenario testing
+* Workflow debugging
+
+### Skills Demonstrated
+
+**Workflow Architecture | Data Mapping | API Integrations | Automation Logic | Scheduling Automation | Troubleshooting**
 
 ---
 
-## 🌐 Maple & Bean Coffee Website
+## 🌐 Maple & Bean Coffee — Web Development
 
-A responsive coffee shop website built from scratch with a focus on clean design, responsive layouts, and interactive functionality.
+A responsive business website built from scratch using front-end technologies.
 
-### Tech Stack
+### Architecture
 
-* HTML
-* CSS
-* JavaScript
+**HTML5 + CSS3 + JavaScript**
 
-**Repository:**
+### Technical Implementation
+
+* Semantic HTML structure
+* Responsive layouts
+* Custom CSS styling
+* JavaScript interactions
+* Responsive navigation
+* Interactive ordering interface
+* Form handling
+* Mobile optimization
+* Custom SVG logo
+* Lazy-loaded images
+* Git version control
+* GitHub repository
+* Netlify deployment
+
+### Repository
+
 https://github.com/JudeReyes/coffee-shop-landing-page
 
-**Live Demo:**
+### Live Demo
+
 https://mapleandbeancoffee.netlify.app/
+
+### Skills Demonstrated
+
+**Front-End Development | Responsive Design | JavaScript | Git | GitHub | Deployment | Troubleshooting**
 
 ---
 
 ## 🌍 WordPress Business Website
 
-A responsive café website built using WordPress and Elementor.
+A responsive business website developed using WordPress and Elementor.
+
+### Technical Stack
+
+**WordPress + Elementor + WPForms + Popup Maker**
+
+### Implementation
+
+* WordPress configuration
+* Elementor page development
+* Responsive layouts
+* Custom page sections
+* Interactive popup functionality
+* Contact form integration
+* Mobile optimization
+* Website troubleshooting
+* Plugin configuration
 
 ### Features
 
-* Custom hero section
-* Photo-driven menu
+* Responsive hero section
+* Product/menu presentation
 * Interactive ordering popup
-* Mobile-friendly contact section
+* Contact section
 * Tap-to-call functionality
 * Tap-to-email functionality
 
-**Live Demo:**
+### Live Demo
+
 https://mapleandbean.infinityfree.io/
+
+### Skills Demonstrated
+
+**WordPress | Elementor | Plugin Configuration | Website Troubleshooting | Responsive Web Development**
 
 ---
 
 ## 📋 Notion Business Operating System
 
-A centralized Notion workspace designed to organize business operations.
+A structured Notion workspace designed to centralize business operations and information.
 
-### Includes
+### System Architecture
+
+**CRM + Task Management + Invoice Tracking + SOPs + Content Planning**
+
+### Components
 
 * Client CRM
-* Task Manager
-* Invoice Tracker
-* SOP Library
-* Content Planner
+* Task management database
+* Invoice tracker
+* SOP library
+* Content planner
 * Relational databases
-* Linked records
+* Linked database records
 * Multiple database views
+* Structured business information
+
+### Skills Demonstrated
+
+**Database Design | Information Architecture | Workflow Organization | Business Systems | Documentation**
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Technical Stack
 
-### Automation
+### Automation & Integration
 
 * Make.com
 * Zapier
@@ -122,29 +204,37 @@ A centralized Notion workspace designed to organize business operations.
 * Webhooks
 * HubSpot CRM
 * Google Workspace
-* Notion
-* Slack
+* Workflow Automation
+* Data Mapping
+* Process Automation
+* System Integration
 
 ### Web Development
 
+* HTML5
+* CSS3
+* JavaScript
 * WordPress
 * Elementor
-* HTML
-* CSS
-* JavaScript
+* WPForms
+* Popup Maker
+* Responsive Web Design
+* Git
+* GitHub
+* Netlify
 
-### Business & Productivity
+### Business Systems
 
+* Notion
 * Google Sheets
 * Google Drive
 * Google Calendar
 * Google Meet
+* HubSpot CRM
+* Slack
 * Microsoft 365
-* Trello
-* Asana
-* ClickUp
 
-### AI & Design
+### AI & Productivity
 
 * ChatGPT
 * Claude
@@ -154,37 +244,89 @@ A centralized Notion workspace designed to organize business operations.
 
 ---
 
-# 💡 What I Can Help With
+# 🔧 Technical Capabilities
 
-✅ Workflow Automation
+### Workflow Automation
 
-✅ Business Process Optimization
+* Multi-step workflow design
+* Trigger/action architecture
+* Field mapping
+* Data transformation
+* Application integrations
+* Automated notifications
+* Scheduling workflows
+* Workflow testing
+* Troubleshooting
 
-✅ Technical Virtual Assistance
+### CRM & Business Systems
 
-✅ CRM Setup & Management
+* CRM setup
+* Contact management
+* Lead capture
+* Database organization
+* Data synchronization
+* Notion workspace design
+* SOP documentation
+* Business process organization
 
-✅ Google Workspace Automation
+### Web & Technical Support
 
-✅ API Integrations
+* WordPress development
+* Elementor
+* Website troubleshooting
+* HTML/CSS development
+* JavaScript
+* Responsive design
+* Plugin configuration
+* Technical documentation
 
-✅ WordPress Website Development
+### Process Improvement
 
-✅ Website Troubleshooting
-
-✅ Notion Business Systems
-
-✅ Technical Troubleshooting
+* Workflow analysis
+* Process documentation
+* Error identification
+* Root-cause analysis
+* Quality control
+* Process optimization
+* Technical troubleshooting
 
 ---
 
-# 🎯 My Approach
+# 💡 What I Can Build
 
-I combine technical problem-solving with a strong quality-focused background.
+✅ Automated Lead Capture Systems
 
-My 11 years in electronics manufacturing and quality assurance developed my attention to detail, documentation, process discipline, troubleshooting, and continuous improvement skills.
+✅ CRM Automation
 
-I now apply those strengths to automation, web development, and digital business systems.
+✅ Client Booking Workflows
+
+✅ Google Workspace Integrations
+
+✅ Multi-Application Workflows
+
+✅ API & Webhook Integrations
+
+✅ Notion Business Systems
+
+✅ WordPress Websites
+
+✅ Website Troubleshooting
+
+✅ Technical Documentation
+
+✅ Business Process Automation
+
+---
+
+# 🧠 Technical Background
+
+My technical foundation comes from **11 years in electronics manufacturing and quality assurance**.
+
+That experience involved working in process-driven environments where accuracy, documentation, technical troubleshooting, quality control, and adherence to procedures were critical.
+
+I bring the same mindset to digital systems:
+
+**Analyze → Build → Test → Troubleshoot → Improve → Document**
 
 ---
 
