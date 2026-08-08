@@ -4,11 +4,7 @@
 
 I help entrepreneurs and small businesses automate repetitive tasks, organize business systems, and build efficient digital workflows using modern automation tools.
 
-With **11 years of experience in electronics manufacturing and quality assurance**, I bring strong analytical thinking, documentation skills, attention to detail, and a process-driven mindset into every automation project.
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-success?style=for-the-badge)](https://jude-va-portfolio.lovable.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/judereyes0618)
-[![YouTube](https://img.shields.io/badge/Video_Introduction-Watch-red?style=for-the-badge&logo=youtube)](https://youtu.be/wBd1EbLHBpA)
+With **11 years of experience in electronics manufacturing and quality assurance**, I bring strong analytical thinking, technical troubleshooting, documentation skills, attention to detail, and a process-driven mindset to every project.
 
 ---
 
@@ -16,7 +12,7 @@ With **11 years of experience in electronics manufacturing and quality assurance
 
 Click below to watch my 1-minute introduction.
 
-[![Watch my Introduction](https://img.youtube.com/vi/wBd1EbLHBpA/maxresdefault.jpg)](https://youtu.be/wBd1EbLHBpA)
+🎬 **[Watch My Introduction](https://youtu.be/wBd1EbLHBpA)**
 
 ---
 
@@ -26,16 +22,20 @@ Click below to watch my 1-minute introduction.
 
 ### Workflow
 
-Google Forms → HubSpot CRM → Google Sheets → Gmail → Slack
+**Google Forms → HubSpot CRM → Google Sheets → Gmail → Slack**
+
+### What I Built
+
+An automated lead management workflow that captures inquiries, creates CRM records, synchronizes lead information, sends confirmation emails, and delivers real-time Slack notifications.
 
 ### Tools Used
 
-- Zapier
-- HubSpot CRM
-- Google Forms
-- Google Sheets
-- Gmail
-- Slack
+* Zapier
+* HubSpot CRM
+* Google Forms
+* Google Sheets
+* Gmail
+* Slack
 
 ---
 
@@ -43,88 +43,114 @@ Google Forms → HubSpot CRM → Google Sheets → Gmail → Slack
 
 ### Workflow
 
-Google Forms → Google Sheets → Make.com → Notion → Google Calendar → Google Meet
+**Google Forms → Google Sheets → Make.com → Notion → Google Calendar → Google Meet**
+
+### What I Built
+
+A multi-step booking workflow that automates client record creation, organizes information in Notion and Google Drive, and creates Google Calendar events with Google Meet details.
 
 ### Tools Used
 
-- Make.com
-- Notion
-- Google Calendar
-- Google Drive
-- Google Meet
+* Make.com
+* Notion
+* Google Drive
+* Google Calendar
+* Google Meet
 
 ---
 
 ## 🌐 Maple & Bean Coffee Website
 
-Responsive coffee shop landing page built from scratch.
+A responsive coffee shop website built from scratch with a focus on clean design, responsive layouts, and interactive functionality.
 
 ### Tech Stack
 
-- HTML
-- CSS
-- JavaScript
+* HTML
+* CSS
+* JavaScript
 
-Repository:
+**Repository:**
 https://github.com/JudeReyes/coffee-shop-landing-page
 
-Live Demo:
+**Live Demo:**
 https://mapleandbeancoffee.netlify.app/
 
 ---
 
 ## 🌍 WordPress Business Website
 
-Built with WordPress and Elementor.
+A responsive café website built using WordPress and Elementor.
 
-Live Demo:
+### Features
 
+* Custom hero section
+* Photo-driven menu
+* Interactive ordering popup
+* Mobile-friendly contact section
+* Tap-to-call functionality
+* Tap-to-email functionality
+
+**Live Demo:**
 https://mapleandbean.infinityfree.io/
 
 ---
 
 ## 📋 Notion Business Operating System
 
-Includes:
+A centralized Notion workspace designed to organize business operations.
 
-- Client CRM
-- Task Manager
-- Invoice Tracker
-- SOP Library
-- Content Planner
+### Includes
+
+* Client CRM
+* Task Manager
+* Invoice Tracker
+* SOP Library
+* Content Planner
+* Relational databases
+* Linked records
+* Multiple database views
 
 ---
 
 # 🛠️ Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,wordpress,git,github,vscode" />
-</p>
-
 ### Automation
 
-- Make.com
-- Zapier
-- APIs
-- Webhooks
-- HubSpot CRM
-- Google Workspace
-- Notion
-- Slack
+* Make.com
+* Zapier
+* APIs
+* Webhooks
+* HubSpot CRM
+* Google Workspace
+* Notion
+* Slack
 
----
+### Web Development
 
-# 📈 GitHub Stats
+* WordPress
+* Elementor
+* HTML
+* CSS
+* JavaScript
 
-![](https://github-readme-stats.vercel.app/api?username=JudeReyes&show_icons=true&theme=github_dark)
+### Business & Productivity
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JudeReyes&layout=compact&theme=github_dark)
+* Google Sheets
+* Google Drive
+* Google Calendar
+* Google Meet
+* Microsoft 365
+* Trello
+* Asana
+* ClickUp
 
----
+### AI & Design
 
-# 🔥 GitHub Streak
-
-![](https://streak-stats.demolab.com?user=JudeReyes&theme=github-dark)
+* ChatGPT
+* Claude
+* Canva
+* Figma
+* CapCut
 
 ---
 
@@ -134,42 +160,49 @@ Includes:
 
 ✅ Business Process Optimization
 
-✅ WordPress Website Development
-
 ✅ Technical Virtual Assistance
-
-✅ API Integrations
 
 ✅ CRM Setup & Management
 
 ✅ Google Workspace Automation
 
-✅ AI-Assisted Business Systems
+✅ API Integrations
+
+✅ WordPress Website Development
+
+✅ Website Troubleshooting
+
+✅ Notion Business Systems
+
+✅ Technical Troubleshooting
+
+---
+
+# 🎯 My Approach
+
+I combine technical problem-solving with a strong quality-focused background.
+
+My 11 years in electronics manufacturing and quality assurance developed my attention to detail, documentation, process discipline, troubleshooting, and continuous improvement skills.
+
+I now apply those strengths to automation, web development, and digital business systems.
 
 ---
 
 # 📫 Let's Connect
 
-📧 Email
+📧 **Email**
+[jude.reyes0618@gmail.com](mailto:jude.reyes0618@gmail.com)
 
-jude.reyes0618@gmail.com
-
-🌐 Portfolio
-
+🌐 **Portfolio**
 https://jude-va-portfolio.lovable.app/
 
-💼 LinkedIn
-
+💼 **LinkedIn**
 https://www.linkedin.com/in/judereyes0618
 
-💻 GitHub
-
+💻 **GitHub**
 https://github.com/JudeReyes
 
-🎥 Video Introduction
-
+🎥 **Video Introduction**
 https://youtu.be/wBd1EbLHBpA
 
 ---
-
-![](https://komarev.com/ghpvc/?username=JudeReyes&label=Profile+Views&color=0e75b6&style=flat)
