@@ -1,41 +1,92 @@
-# 👋 Hi there, I'm Jude Reyes
+# 👋 Hi, I'm Jude Reyes
 
-### 💻 Technical Virtual Assistant | ⚙️ Workflow Automation | 🌐 WordPress
+### Technical Virtual Assistant | Workflow Automation | AI Systems | WordPress
 
-I build practical automation systems, business workflows, websites, and digital operations systems for entrepreneurs and small businesses.
+I build practical **automation workflows, AI-powered tools, business systems, websites, and digital operations solutions** for entrepreneurs and small businesses.
 
-With **11 years of experience in electronics manufacturing and quality assurance**, I bring a strong process-driven approach to technical troubleshooting, documentation, quality control, and continuous improvement.
+My background combines **technical troubleshooting, process improvement, quality-focused operations, workflow automation, and hands-on digital systems development.**
 
-<br>
+With **11+ years of experience in electronics manufacturing and quality assurance**, I bring a process-driven approach to analyzing problems, documenting processes, troubleshooting systems, and continuously improving workflows.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://jude-va-portfolio.lovable.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/judereyes0618)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/JudeReyes)
-[![Video](https://img.shields.io/badge/Video-Introduction-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtu.be/wBd1EbLHBpA)
-
----
-
-## 🎥 Video Introduction
-
-[![Watch My Introduction](https://img.shields.io/badge/▶_Watch_My_1--Minute_Introduction-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtu.be/wBd1EbLHBpA)
+**Portfolio:** https://jude-va-portfolio.lovable.app
+**LinkedIn:** https://www.linkedin.com/in/judereyes/
+**GitHub:** https://github.com/JudeReyes
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🤖 Automated Lead Capture & CRM Workflow
+### 🤖 JUNO — Jude's Neural Operations Assistant
 
-### `Google Forms → Zapier → HubSpot CRM → Google Sheets → Gmail → Slack`
+**Personal AI Assistant & Automation System**
 
-An automated lead-management workflow designed to capture inquiries, organize contact information, synchronize records, and deliver notifications across multiple business applications.
+JUNO is my personal AI assistant project, designed to combine **AI, automation, command systems, memory, tools, and workflow assistance** into one interface.
 
-**Technical Components**
+The project explores how an AI assistant can support real-world technical and business operations instead of functioning only as a chatbot.
 
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square\&logo=zapier\&logoColor=white)
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square\&logo=hubspot\&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square\&logo=googlesheets\&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square\&logo=gmail\&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square\&logo=slack\&logoColor=white)
+**Key capabilities**
+
+* AI-powered conversational interface
+* Command and tool routing
+* Persistent memory system
+* AI fallback and intelligent task handling
+* Calculator and system tools
+* Voice interaction
+* Microphone input
+* Text-to-speech
+* File attachment support
+* Work modes for different workflows
+* Automation-oriented architecture
+* Technical troubleshooting and debugging
+
+**Technology**
+
+`Python` `Flask` `Google Gemini` `AI APIs` `HTML` `CSS` `JavaScript`
+
+🔗 **Live Demo:** https://github.com/JudeReyes/JUNO-Live-Demo
+🔗 **Source Code:** https://github.com/JudeReyes/JUNO
+
+---
+
+### 🧋 Sorella Tea — Touch POS & Inventory System
+
+**Custom POS + Inventory + Costing System**
+
+A tablet-friendly POS and inventory management system designed for a small milk tea business.
+
+The system connects customer orders with **product recipes, ingredient usage, costing, inventory tracking, payments, and business reporting.**
+
+**Key capabilities**
+
+* Touch-friendly ordering interface
+* Customizable menu
+* Product variants and sizes
+* Cash and GCash payment tracking
+* Recipe-based ingredient costing
+* Automatic inventory deduction
+* Ingredient management
+* Reorder and inventory monitoring
+* Expense tracking
+* Daily and monthly summaries
+* Backup and restore functionality
+* Designed for tablet/iPad use
+* Customizable based on business requirements
+
+**Technology**
+
+`HTML` `CSS` `JavaScript` `Excel` `Netlify`
+
+🔗 **Repository:** https://github.com/JudeReyes/sorella-tea-pos-inventory
+
+> Built as a practical business system that can be adapted to different menus, pricing structures, workflows, and inventory requirements.
+
+---
+
+### ⚙️ Automated Lead Capture & CRM Workflow
+
+**Google Forms → Zapier → HubSpot → Google Sheets → Gmail → Slack**
+
+An automated lead-management workflow designed to capture inquiries, organize contact information, synchronize records, and notify the appropriate team.
 
 **Implemented**
 
@@ -45,26 +96,20 @@ An automated lead-management workflow designed to capture inquiries, organize co
 * Cross-platform synchronization
 * Automated email notifications
 * Slack notifications
-* Workflow testing and troubleshooting
+* Workflow testing
+* Troubleshooting and debugging
 
-<br>
+**Tools**
 
-[![View Project](https://img.shields.io/badge/🔎_View_Project-111827?style=for-the-badge)](https://jude-va-portfolio.lovable.app/)
+`Zapier` `HubSpot` `Google Sheets` `Gmail` `Slack`
 
 ---
 
-## 📅 Automated Client Booking System
+### 📅 Automated Client Booking System
 
-### `Google Forms → Google Sheets → Make.com → Notion → Google Calendar → Google Meet`
+**Google Forms → Google Sheets → Make.com → Notion → Google Calendar → Google Meet**
 
 A multi-application booking workflow that processes client information, organizes records, and automates scheduling.
-
-**Technical Components**
-
-![Make](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square\&logo=make\&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square\&logo=notion\&logoColor=white)
-![Google Calendar](https://img.shields.io/badge/Google_Calendar-4285F4?style=flat-square\&logo=googlecalendar\&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=flat-square\&logo=googledrive\&logoColor=white)
 
 **Implemented**
 
@@ -78,17 +123,15 @@ A multi-application booking workflow that processes client information, organize
 * Time zone troubleshooting
 * Workflow testing and debugging
 
-<br>
+**Tools**
 
-[![View Project](https://img.shields.io/badge/🔎_View_Project-111827?style=for-the-badge)](https://jude-va-portfolio.lovable.app/)
+`Make.com` `Notion` `Google Sheets` `Google Calendar` `Google Meet`
 
 ---
 
-## 🌐 Maple & Bean Coffee — Front-End Website
+### 🌐 Maple & Bean Coffee — Front-End Website
 
-A responsive coffee shop landing page built from scratch using front-end technologies.
-
-### `HTML5 + CSS3 + JavaScript`
+A responsive coffee shop website built with front-end technologies.
 
 **Technical Features**
 
@@ -103,28 +146,23 @@ A responsive coffee shop landing page built from scratch using front-end technol
 * GitHub repository
 * Netlify deployment
 
-**Tech Stack**
+**Technology**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square\&logo=netlify\&logoColor=white)
+`HTML5` `CSS3` `JavaScript` `Git` `GitHub` `Netlify`
 
-<br>
-
-[![Repository](https://img.shields.io/badge/💻_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/JudeReyes/coffee-shop-landing-page)
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)](https://mapleandbeancoffee.netlify.app/)
+🔗 **Repository:** https://github.com/JudeReyes/coffee-shop-landing-page
 
 ---
 
-## 🌍 WordPress Business Website
+### 🌍 WordPress Business Website
 
 A responsive business website developed using WordPress and Elementor.
 
-### `WordPress + Elementor + WPForms + Popup Maker`
+**Technology**
 
-**Technical Features**
+`WordPress` `Elementor` `WPForms` `Popup Maker`
+
+**Implemented**
 
 * Elementor page development
 * Responsive layouts
@@ -135,22 +173,13 @@ A responsive business website developed using WordPress and Elementor.
 * Mobile optimization
 * Website troubleshooting
 
-**Stack**
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square\&logo=wordpress\&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square\&logo=elementor\&logoColor=white)
-
-<br>
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)](https://mapleandbean.infinityfree.io/)
-
 ---
 
-## 📋 Notion Business Operating System
+### 📋 Notion Business Operating System
 
 A structured Notion workspace designed to organize business operations in one centralized system.
 
-### System Modules
+**System Modules**
 
 * 👥 Client CRM
 * 📋 Task Manager
@@ -167,96 +196,128 @@ A structured Notion workspace designed to organize business operations in one ce
 
 ---
 
-# 🛠️ Technical Stack
+## 🛠️ Technical Stack
 
 ### ⚙️ Automation & Integration
 
-![Make](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square\&logo=make\&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square\&logo=zapier\&logoColor=white)
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square\&logo=hubspot\&logoColor=white)
+`Make.com` `Zapier` `APIs` `Webhooks` `Data Mapping` `Workflow Automation` `Process Automation`
 
-`APIs` `Webhooks` `Data Mapping` `Workflow Automation` `Process Automation`
+### 🤖 AI & AI Automation
+
+`ChatGPT` `Google Gemini` `Claude` `AI APIs` `Prompt Engineering` `AI Workflows`
 
 ### 🌐 Web Development
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square\&logo=wordpress\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-
-`Elementor` `WPForms` `Popup Maker` `Git` `GitHub` `Netlify`
+`HTML5` `CSS3` `JavaScript` `WordPress` `Elementor` `WPForms` `Git` `GitHub` `Netlify`
 
 ### 🗂️ Business Systems
 
-`Notion` `Google Sheets` `Google Drive` `Google Calendar` `Google Meet` `Slack` `Microsoft 365`
+`Notion` `Google Sheets` `Google Drive` `Google Calendar` `Google Meet` `Slack` `Microsoft 365` `HubSpot`
 
-### 🤖 AI & Productivity
+### 🎨 Productivity & Digital Tools
 
-`ChatGPT` `Claude` `Canva` `Figma` `CapCut`
-
----
-
-# 🔧 Technical Capabilities
-
-| Area                   | Capabilities                                                            |
-| ---------------------- | ----------------------------------------------------------------------- |
-| ⚙️ Automation          | Workflow Design, Multi-Step Automation, Data Mapping, Integrations      |
-| 🔗 Integrations        | APIs, Webhooks, CRM, Google Workspace, Cross-Platform Workflows         |
-| 🗂️ Business Systems   | CRM, Notion Databases, SOPs, Process Organization                       |
-| 🌐 Web                 | WordPress, Elementor, HTML, CSS, JavaScript                             |
-| 🔧 Troubleshooting     | Workflow Debugging, Website Troubleshooting, Technical Issue Resolution |
-| 📊 Process Improvement | Process Analysis, Documentation, Quality Control, Optimization          |
+`Canva` `Figma` `CapCut`
 
 ---
 
-# 💡 What I Can Build
+## 🔧 What I Can Build
+
+| Area                   | Solutions                                                 |
+| ---------------------- | --------------------------------------------------------- |
+| ⚙️ Workflow Automation | Multi-step workflows, process automation, task routing    |
+| 🤖 AI Systems          | AI assistants, AI-powered workflows, AI integrations      |
+| 🔗 Integrations        | APIs, webhooks, CRM and cross-platform integrations       |
+| 📊 CRM Automation      | Lead capture, data synchronization, notifications         |
+| 📅 Booking Systems     | Automated scheduling and client intake                    |
+| 🧋 Business Systems    | POS, inventory, costing and operational tracking          |
+| 🗂️ Notion Systems     | CRMs, databases, task management and SOP systems          |
+| 🌐 Websites            | WordPress and custom front-end websites                   |
+| 🔧 Technical Support   | Troubleshooting, debugging and technical issue resolution |
+| 📝 Documentation       | SOPs, process documentation and workflow guides           |
+
+---
+
+## 🧠 My Technical Approach
+
+My background in electronics manufacturing and quality assurance developed a strong foundation in:
+
+**Technical Troubleshooting · Quality Control · Process Documentation · Root-Cause Analysis · Process Discipline · Continuous Improvement**
+
+I apply the same mindset when building digital systems:
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                  TECHNICAL SOLUTIONS                  │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  ⚙️ Workflow Automation        🔗 API Integrations   │
-│  🤖 CRM Automation             📋 Notion Systems     │
-│  📅 Booking Automation         🌐 WordPress Sites   │
-│  📊 Lead Capture Systems       🔧 Technical Support │
-│  ☁️ Google Workspace           📝 Documentation     │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+Analyze
+   ↓
+Design
+   ↓
+Build
+   ↓
+Test
+   ↓
+Troubleshoot
+   ↓
+Improve
+   ↓
+Document
 ```
 
----
+The goal isn't simply to make something work.
 
-# 🧠 Technical Background
-
-My **11 years in electronics manufacturing and quality assurance** developed a strong foundation in:
-
-`Technical Troubleshooting` · `Quality Control` · `Process Documentation` · `Root-Cause Analysis` · `Process Discipline` · `Continuous Improvement`
-
-I apply the same approach to digital systems:
-
-### **Analyze → Build → Test → Troubleshoot → Improve → Document**
+It's to build systems that are **practical, understandable, maintainable, and adaptable to the client's workflow.**
 
 ---
 
-# 📊 GitHub Activity
+## 📂 GitHub Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JudeReyes\&show_icons=true\&hide_border=true\&count_private=true\&theme=transparent)
+### 🤖 JUNO
+
+AI assistant interface exploring AI, automation, command systems, memory, and human-computer interaction.
+
+### 🧋 Sorella Tea POS & Inventory
+
+Touch-friendly POS and inventory management system designed for a small milk tea business.
+
+### ☕ Coffee Shop Landing Page
+
+Responsive front-end website built with HTML, CSS, and JavaScript.
+
+### 🌐 Maple & Bean Coffee Website
+
+Business website combining WordPress, Elementor, HTML, CSS, and JavaScript.
 
 ---
 
-# 📫 Let's Connect
+## 📊 GitHub Activity
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-111827?style=for-the-badge)](https://jude-va-portfolio.lovable.app/)
+I use GitHub to document and develop practical projects across:
 
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/judereyes0618)
+* AI assistants
+* Automation
+* Business systems
+* Web development
+* Workflow tools
+* Technical experiments
 
-[![Email](https://img.shields.io/badge/📧_Email-Contact-555555?style=for-the-badge)](mailto:jude.reyes0618@gmail.com)
+---
 
-[![YouTube](https://img.shields.io/badge/🎥_Video_Introduction-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtu.be/wBd1EbLHBpA)
+## 📫 Let's Connect
+
+**🌐 Portfolio**
+https://jude-va-portfolio.lovable.app
+
+**💼 LinkedIn**
+https://www.linkedin.com/in/judereyes/
+
+**💻 GitHub**
+https://github.com/JudeReyes
+
+**📧 Email**
+[jude.reyes0618@gmail.com](mailto:jude.reyes0618@gmail.com)
 
 ---
 
 ### ⭐ Thanks for visiting my profile!
 
-If you're looking for someone who can combine **technical troubleshooting, workflow automation, web development, and business systems**, feel free to connect.
+I'm interested in opportunities involving **technical virtual assistance, workflow automation, AI-powered systems, business operations, and practical digital solutions.**
+
+If a business process is repetitive, disconnected, or difficult to manage, I enjoy finding ways to **simplify it, connect it, and make it work better.**
