@@ -1,495 +1,403 @@
-# `> JUDE_REYES`
+# JUDE REYES
 
-### Technical Virtual Assistant · AI Automation · Workflow Systems · Web Development
+### `TECHNICAL VIRTUAL ASSISTANT` · `AI AUTOMATION` · `WORKFLOW SYSTEMS`
 
-```text
-SYSTEM STATUS: ONLINE
-ROLE: Technical Virtual Assistant
-SPECIALIZATION: Automation / AI Systems / Business Workflows
-BUILD PHILOSOPHY: Analyze → Build → Test → Debug → Optimize
-```
+<p align="center">
 
-I build **AI-powered tools, automation workflows, business systems, and web applications** that solve practical operational problems.
+**BUILDING INTELLIGENT SYSTEMS FOR REAL-WORLD WORKFLOWS**
 
-My technical background combines **11+ years in electronics manufacturing and quality assurance** with hands-on development in automation, AI tools, integrations, web technologies, and digital business systems.
+AI • AUTOMATION • INTEGRATIONS • BUSINESS SYSTEMS • WEB
 
----
+</p>
 
-## `01 // CORE SYSTEMS`
+<p align="center">
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                     JUDE REYES / STACK                      │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  AI / LLMs          → Gemini · ChatGPT · Claude            │
-│  AUTOMATION         → Make.com · Zapier · n8n              │
-│  INTEGRATIONS       → APIs · Webhooks · JSON · OAuth       │
-│  BUSINESS SYSTEMS   → HubSpot · Notion · Google Workspace  │
-│  DEVELOPMENT        → Python · HTML · CSS · JavaScript     │
-│  WEB                 → WordPress · Elementor · Netlify      │
-│  VERSION CONTROL    → Git · GitHub                         │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+<a href="https://jude-va-portfolio.lovable.app">PORTFOLIO</a> • <a href="https://www.linkedin.com/in/judereyes/">LINKEDIN</a> • <a href="https://github.com/JudeReyes">GITHUB</a>
+
+</p>
 
 ---
 
-# `02 // FEATURED SYSTEMS`
-
-## `> JUNO`
-
-### `Jude's Neural Operations Assistant`
+## `01 / SYSTEM PROFILE`
 
 ```text
-TYPE: Personal AI Assistant
-STATUS: ACTIVE DEVELOPMENT
-LANGUAGE: Python
-FRAMEWORK: Flask
-AI: Google Gemini
+IDENTITY
+Jude Reyes
+
+ROLE
+Technical Virtual Assistant
+
+SPECIALIZATION
+AI Automation
+Workflow Engineering
+Business Systems
+Web Development
+
+APPROACH
+ANALYZE → BUILD → TEST → DEBUG → OPTIMIZE
 ```
 
-JUNO is my personal AI assistant project exploring the integration of **AI, memory, tools, voice interaction, command routing, and workflow automation** into a single operational interface.
+I build **practical intelligent systems** that connect AI, automation, business processes, and digital tools.
 
-```text
-                         ┌──────────────┐
-                         │     JUNO     │
-                         │  AI BRAIN    │
-                         └──────┬───────┘
-                                │
-              ┌─────────────────┼─────────────────┐
-              ↓                 ↓                 ↓
-        ┌───────────┐     ┌───────────┐     ┌───────────┐
-        │  MEMORY   │     │   TOOLS   │     │   VOICE   │
-        └───────────┘     └───────────┘     └───────────┘
-              │                 │                 │
-              └─────────────────┼─────────────────┘
-                                ↓
-                       ┌────────────────┐
-                       │   WORKFLOWS    │
-                       └────────────────┘
-```
+My work ranges from **AI assistants and automated workflows to POS systems, inventory platforms, CRM integrations, and web applications.**
 
-### Architecture / Capabilities
-
-* AI conversational interface
-* Gemini integration
-* Persistent memory
-* Tool routing
-* AI fallback handling
-* Command processing
-* Calculator tools
-* System tools
-* Voice input
-* Text-to-speech
-* Microphone integration
-* File attachment support
-* Workflow-specific work modes
-* Debugging and error handling
-
-### Stack
-
-`Python` `Flask` `Google Gemini` `HTML` `CSS` `JavaScript` `REST APIs`
-
-**Source:**
-https://github.com/JudeReyes/JUNO
-
-**Live Demo:**
-https://github.com/JudeReyes/JUNO-Live-Demo
+My technical foundation is strengthened by **11+ years in electronics manufacturing and quality assurance**, where troubleshooting, process discipline, documentation, and continuous improvement were part of everyday work.
 
 ---
 
-# `03 // SORELLA TEA POS`
+# `02 / FLAGSHIP SYSTEM`
 
-## `> Touch POS + Inventory System`
+## `JUNO`
 
-```text
-INPUT
-  │
-  ├── Product
-  ├── Variant
-  ├── Quantity
-  └── Payment
-       │
-       ↓
-┌───────────────────┐
-│     POS ENGINE    │
-└─────────┬─────────┘
-          ↓
-┌───────────────────┐
-│ ORDER PROCESSING  │
-└─────────┬─────────┘
-          ↓
-┌───────────────────┐
-│ RECIPE / COSTING  │
-└─────────┬─────────┘
-          ↓
-┌───────────────────┐
-│ INVENTORY ENGINE  │
-└─────────┬─────────┘
-          ↓
-┌───────────────────┐
-│ REPORTING / DATA  │
-└───────────────────┘
-```
+### `JUDE'S NEURAL OPERATIONS ASSISTANT`
 
-A touch-friendly business system designed for a milk tea operation.
+> **An evolving personal AI system built to think, remember, interact, and execute.**
 
-### Core Functions
+JUNO is my flagship personal project exploring how an AI assistant can move beyond simple chat and become a **practical operational interface**.
 
 ```text
-[ POS ]
- ├── Menu management
- ├── Product variants
- ├── Touch ordering
- └── Cash / GCash
-
-[ INVENTORY ]
- ├── Ingredient tracking
- ├── Recipe-based deduction
- ├── Stock monitoring
- └── Reorder management
-
-[ COSTING ]
- ├── Recipe costing
- ├── Product costing
- └── Expense tracking
-
-[ REPORTING ]
- ├── Daily summary
- ├── Monthly summary
- └── Business records
+                         ┌───────────────┐
+                         │     JUNO      │
+                         │   AI CORE     │
+                         └───────┬───────┘
+                                 │
+             ┌───────────────────┼───────────────────┐
+             │                   │                   │
+             ▼                   ▼                   ▼
+        ┌─────────┐         ┌─────────┐         ┌─────────┐
+        │ MEMORY  │         │  TOOLS  │         │  VOICE  │
+        └────┬────┘         └────┬────┘         └────┬────┘
+             │                   │                   │
+             └───────────────────┼───────────────────┘
+                                 ▼
+                       ┌──────────────────┐
+                       │ WORKFLOW ENGINE  │
+                       └────────┬─────────┘
+                                ▼
+                       ┌──────────────────┐
+                       │     ACTIONS      │
+                       └──────────────────┘
 ```
 
-Designed to be **customizable rather than locked to one business model**.
+### Capabilities
 
-Menu structure, sizes, pricing, ingredients, workflows, and reporting can be adapted to client requirements.
+`AI CONVERSATION`
+`PERSISTENT MEMORY`
+`COMMAND ROUTING`
+`TOOL INTEGRATION`
+`VOICE INPUT`
+`TEXT-TO-SPEECH`
+`FILE HANDLING`
+`AI FALLBACK`
+`SYSTEM TOOLS`
+`WORKFLOW MODES`
 
-**Repository:**
-https://github.com/JudeReyes/sorella-tea-pos-inventory
+### Technology
+
+`Python` `Flask` `Google Gemini` `JavaScript` `HTML` `CSS` `REST APIs`
+
+**SOURCE**
+
+→ https://github.com/JudeReyes/JUNO
+
+**LIVE DEMO**
+
+→ https://github.com/JudeReyes/JUNO-Live-Demo
 
 ---
 
-# `04 // AUTOMATION SYSTEMS`
+# `03 / BUSINESS SYSTEM`
 
-## `> LEAD CAPTURE → CRM`
+## `SORELLA TEA`
+
+### `TOUCH POS • INVENTORY • COSTING • OPERATIONS`
+
+A custom business platform designed around the operational workflow of a milk tea business.
+
+Instead of treating POS, inventory, and costing as separate processes, the system connects them into one workflow.
 
 ```text
-Google Forms
-     │
-     ↓
-   Zapier
-     │
-     ├────────→ HubSpot CRM
-     │
-     ├────────→ Google Sheets
-     │
-     ├────────→ Gmail
-     │
-     └────────→ Slack
+                  CUSTOMER ORDER
+                        │
+                        ▼
+                ┌──────────────┐
+                │     POS      │
+                └──────┬───────┘
+                       │
+                       ▼
+                ┌──────────────┐
+                │   PRODUCT    │
+                │   VARIANT    │
+                └──────┬───────┘
+                       │
+                       ▼
+                ┌──────────────┐
+                │    RECIPE    │
+                └──────┬───────┘
+                       │
+                       ▼
+                ┌──────────────┐
+                │  INVENTORY   │
+                └──────┬───────┘
+                       │
+                       ▼
+                ┌──────────────┐
+                │   COSTING    │
+                └──────┬───────┘
+                       │
+                       ▼
+                ┌──────────────┐
+                │   REPORTS    │
+                └──────────────┘
 ```
 
-### Implementation
+### SYSTEM FEATURES
 
-* Multi-step automation
-* CRM record creation
-* Data mapping
-* Cross-platform synchronization
-* Automated notifications
-* Email automation
-* Workflow testing
-* Troubleshooting
+* Touch-friendly ordering
+* Custom menu configuration
+* Product variants
+* Cash + GCash tracking
+* Recipe-based costing
+* Ingredient deduction
+* Inventory monitoring
+* Reorder tracking
+* Expense tracking
+* Daily summaries
+* Monthly summaries
+* Backup and restore
+* Tablet/iPad interface
 
-**Stack:** `Zapier` `HubSpot` `Google Sheets` `Gmail` `Slack`
+### TECHNOLOGY
+
+`HTML` `CSS` `JavaScript` `Excel` `Netlify`
+
+→ **Repository:** https://github.com/JudeReyes/sorella-tea-pos-inventory
 
 ---
 
-## `> CLIENT BOOKING AUTOMATION`
+# `04 / AUTOMATION ENGINEERING`
+
+## `LEAD → CRM → NOTIFICATION`
 
 ```text
-Google Forms
-      ↓
-Google Sheets
-      ↓
-  Make.com
-      ↓
-   Notion
-      ↓
-Google Calendar
-      ↓
- Google Meet
+GOOGLE FORMS
+      │
+      ▼
+    ZAPIER
+      │
+ ┌────┼─────────────┐
+ ▼    ▼             ▼
+CRM  SHEETS        GMAIL
+ │
+ ▼
+SLACK
 ```
 
-### Implementation
+### SYSTEM COMPONENTS
 
-* Scenario design
-* Field mapping
-* Data transformation
-* Notion database integration
-* Calendar automation
-* Google Drive integration
-* Date/time handling
-* Time-zone troubleshooting
-* Workflow debugging
+`Lead Capture`
+`CRM Automation`
+`Data Mapping`
+`Record Creation`
+`Cross-Platform Synchronization`
+`Automated Notifications`
+`Workflow Testing`
+`Debugging`
 
-**Stack:** `Make.com` `Notion` `Google Workspace`
+**STACK**
+
+`Zapier` `HubSpot` `Google Sheets` `Gmail` `Slack`
 
 ---
 
-# `05 // WEB SYSTEMS`
-
-## `> MAPLE & BEAN COFFEE`
-
-Responsive coffee shop website built using front-end technologies.
+## `CLIENT BOOKING PIPELINE`
 
 ```text
-HTML5
-CSS3
-JavaScript
-Git
-GitHub
-Netlify
+FORM
+ ↓
+DATA
+ ↓
+MAKE.COM
+ ↓
+NOTION
+ ↓
+CALENDAR
+ ↓
+MEET
 ```
 
-### Features
+Automates client intake, data organization, scheduling, and meeting creation.
 
-* Responsive UI
-* Interactive navigation
-* JavaScript interactions
-* Custom SVG branding
-* Mobile optimization
-* Lazy-loaded images
-* Git version control
-* Netlify deployment
+**STACK**
 
-**Repository:**
-https://github.com/JudeReyes/coffee-shop-landing-page
+`Make.com` `Notion` `Google Workspace`
 
 ---
 
-## `> WORDPRESS BUSINESS WEBSITE`
+# `05 / DIGITAL SYSTEMS`
 
-```text
-WordPress
-   │
-   ├── Elementor
-   ├── WPForms
-   └── Popup Maker
-```
+## `WEB`
 
-### Implementation
+### Maple & Bean Coffee
 
-* Elementor development
-* Responsive layouts
-* Custom sections
-* Contact forms
-* Interactive popups
-* Plugin configuration
-* Mobile optimization
-* Website troubleshooting
+Responsive coffee shop website built with:
+
+`HTML5` `CSS3` `JavaScript` `Git` `GitHub` `Netlify`
+
+→ https://github.com/JudeReyes/coffee-shop-landing-page
+
+### WordPress Business Website
+
+`WordPress` `Elementor` `WPForms` `Popup Maker`
+
+Responsive business website with custom sections, forms, interactive elements, and mobile optimization.
 
 ---
 
-# `06 // BUSINESS SYSTEMS`
+## `BUSINESS OPERATIONS`
 
-### `NOTION OPERATIONS SYSTEM`
+### Notion Business Operating System
 
-```text
-┌─────────────────────────────┐
-│       BUSINESS OS           │
-├─────────────────────────────┤
-│ CRM                         │
-│ TASK MANAGEMENT             │
-│ INVOICE TRACKING            │
-│ SOP LIBRARY                 │
-│ CONTENT PLANNER             │
-│ RELATIONAL DATABASES        │
-│ LINKED DATABASE VIEWS       │
-└─────────────────────────────┘
-```
+A centralized workspace combining:
 
-Focus areas:
-
-`Database Design`
-`Information Architecture`
-`Process Documentation`
-`Workflow Organization`
-`Business Operations`
+`CRM`
+`Task Management`
+`Invoice Tracking`
+`SOP Library`
+`Content Planning`
+`Relational Databases`
+`Linked Database Views`
 
 ---
 
-# `07 // TECHNICAL TOOLKIT`
+# `06 / TECHNOLOGY MATRIX`
 
-### `AI`
-
-```text
-Google Gemini
-ChatGPT
-Claude
-AI APIs
-Prompt Engineering
-AI Workflow Design
-```
-
-### `AUTOMATION`
-
-```text
-Make.com
-Zapier
-n8n
-APIs
-Webhooks
-JSON
-Data Mapping
-Workflow Automation
-```
-
-### `DEVELOPMENT`
-
-```text
-Python
-HTML5
-CSS3
-JavaScript
-Flask
-REST APIs
-```
-
-### `WEB`
-
-```text
-WordPress
-Elementor
-WPForms
-Popup Maker
-Git
-GitHub
-Netlify
-```
-
-### `BUSINESS SYSTEMS`
-
-```text
-HubSpot
-Notion
-Google Sheets
-Google Drive
-Google Calendar
-Google Meet
-Slack
-Microsoft 365
-```
+| DOMAIN               | TECHNOLOGIES                          |
+| -------------------- | ------------------------------------- |
+| **AI**               | Gemini · ChatGPT · Claude · AI APIs   |
+| **Automation**       | Make.com · Zapier · n8n               |
+| **Integration**      | APIs · Webhooks · JSON · Data Mapping |
+| **Development**      | Python · Flask · JavaScript           |
+| **Frontend**         | HTML5 · CSS3                          |
+| **Web**              | WordPress · Elementor · Netlify       |
+| **Business Systems** | HubSpot · Notion · Google Workspace   |
+| **Version Control**  | Git · GitHub                          |
 
 ---
 
-# `08 // ENGINEERING MINDSET`
+# `07 / ENGINEERING MINDSET`
 
-My background in electronics manufacturing and quality assurance shaped the way I approach digital systems.
+### `PROCESS > COMPLEXITY`
 
-```text
-             PROBLEM
-                │
-                ↓
-             ANALYZE
-                │
-                ↓
-              DESIGN
-                │
-                ↓
-              BUILD
-                │
-                ↓
-               TEST
-                │
-                ↓
-             DEBUG
-                │
-                ↓
-             OPTIMIZE
-                │
-                ↓
-            DOCUMENT
-```
-
-Core strengths:
+My background in electronics manufacturing and quality assurance taught me to approach problems systematically.
 
 ```text
-Technical Troubleshooting
-Root-Cause Analysis
-Process Improvement
-Quality Control
-Documentation
-Workflow Analysis
-System Testing
-Problem Solving
+                 PROBLEM
+                    │
+                    ▼
+                 ANALYZE
+                    │
+                    ▼
+                  DESIGN
+                    │
+                    ▼
+                   BUILD
+                    │
+                    ▼
+                   TEST
+                    │
+                    ▼
+                  DEBUG
+                    │
+                    ▼
+                 IMPROVE
+                    │
+                    ▼
+                DOCUMENT
 ```
 
-I apply the same process-driven mindset to **automation, AI systems, websites, and business workflows.**
+I bring that same mindset into digital systems.
+
+**Troubleshooting**
+**Root-Cause Analysis**
+**Process Improvement**
+**Quality Control**
+**Documentation**
+**System Testing**
 
 ---
 
-# `09 // CURRENT FOCUS`
+# `08 / CURRENT DEVELOPMENT`
 
 ```text
-[████████████████████████████████] AI SYSTEMS
-[████████████████████████████████] WORKFLOW AUTOMATION
-[██████████████████████████████░░] API INTEGRATIONS
-[████████████████████████████░░░] BUSINESS SYSTEMS
-[██████████████████████████░░░░░] WEB DEVELOPMENT
+╔══════════════════════════════════════════════╗
+║              CURRENT FOCUS                   ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  AI ASSISTANTS              ████████████     ║
+║  AI AUTOMATION              ████████████     ║
+║  WORKFLOW SYSTEMS           ████████████     ║
+║  API INTEGRATIONS           ██████████░░     ║
+║  BUSINESS AUTOMATION        ██████████░░     ║
+║  WEB DEVELOPMENT            █████████░░░     ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 ```
 
-Currently building and improving systems around:
+Currently exploring and building around:
 
-* AI assistants
-* AI automation
-* Workflow automation
-* API integrations
-* Business process automation
-* CRM workflows
-* Custom POS systems
-* Inventory systems
-* Technical VA operations
+**AI assistants · AI automation · APIs · workflow orchestration · CRM automation · business systems · custom POS · inventory systems · web applications**
 
 ---
 
-# `10 // GITHUB`
+# `09 / PROJECT ARCHIVE`
 
-I use GitHub to build, test, document, and continuously improve practical systems.
+### `JUNO`
 
-```text
-github.com/JudeReyes
-```
+**AI Assistant / Automation System**
 
-### Selected repositories
+### `JUNO-Live-Demo`
 
-`JUNO`
-`JUNO-Live-Demo`
-`sorella-tea-pos-inventory`
-`coffee-shop-landing-page`
-`maple-and-bean-coffee-website`
+**Interactive AI Assistant Interface**
+
+### `sorella-tea-pos-inventory`
+
+**Touch POS + Inventory System**
+
+### `coffee-shop-landing-page`
+
+**Responsive Front-End Website**
+
+### `maple-and-bean-coffee-website`
+
+**WordPress Business Website**
 
 ---
 
-# `11 // CONNECT`
+# `10 / CONNECT`
 
 ```text
-PORTFOLIO → jude-va-portfolio.lovable.app
-LINKEDIN  → linkedin.com/in/judereyes
-GITHUB    → github.com/JudeReyes
-EMAIL     → jude.reyes0618@gmail.com
+PORTFOLIO
+https://jude-va-portfolio.lovable.app
+
+LINKEDIN
+https://www.linkedin.com/in/judereyes/
+
+GITHUB
+https://github.com/JudeReyes
+
+EMAIL
+jude.reyes0618@gmail.com
 ```
 
 ---
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│              BUILD SYSTEMS. SOLVE PROBLEMS.                │
-│                                                             │
-│                 ANALYZE → AUTOMATE → IMPROVE               │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+<p align="center">
+
+### `BUILDING PRACTICAL INTELLIGENCE FOR REAL-WORLD WORKFLOWS.`
 
 **Jude Reyes**
-`Technical Virtual Assistant | AI Automation | Workflow Systems`
+
+`Technical Virtual Assistant` · `AI Automation` · `Workflow Systems`
+
+</p>
