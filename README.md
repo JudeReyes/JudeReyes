@@ -1,403 +1,406 @@
+<div align="center">
+
 # JUDE REYES
 
 ### `TECHNICAL VIRTUAL ASSISTANT` · `AI AUTOMATION` · `WORKFLOW SYSTEMS`
 
-<p align="center">
+**Building intelligent systems, automations & digital tools for real-world workflows.**
 
-**BUILDING INTELLIGENT SYSTEMS FOR REAL-WORLD WORKFLOWS**
+<br>
 
-AI • AUTOMATION • INTEGRATIONS • BUSINESS SYSTEMS • WEB
+<a href="https://jude-va-portfolio.lovable.app">
+  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-0A84FF?style=for-the-badge&labelColor=0B1020">
+</a>
+<a href="https://www.linkedin.com/in/judereyes/">
+  <img src="https://img.shields.io/badge/💼_LINKEDIN-0077B5?style=for-the-badge&labelColor=0B1020">
+</a>
+<a href="https://github.com/JudeReyes/JUNO">
+  <img src="https://img.shields.io/badge/🤖_JUNO-AI_ASSISTANT-7C3AED?style=for-the-badge&labelColor=0B1020">
+</a>
+<a href="https://github.com/JudeReyes/sorella-tea-pos-inventory">
+  <img src="https://img.shields.io/badge/🧋_SORELLA_TEA-POS-EC4899?style=for-the-badge&labelColor=0B1020">
+</a>
 
-</p>
+<br><br>
 
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,50:7C3AED,100:06B6D4&height=120&section=header&text=&fontSize=0">
 
-<a href="https://jude-va-portfolio.lovable.app">PORTFOLIO</a> • <a href="https://www.linkedin.com/in/judereyes/">LINKEDIN</a> • <a href="https://github.com/JudeReyes">GITHUB</a>
-
-</p>
+</div>
 
 ---
 
-## `01 / SYSTEM PROFILE`
+## ⚡ ABOUT THE BUILDER
+
+<table>
+<tr>
+<td width="60%">
+
+### `Jude Reyes`
+
+I build **AI-powered tools, workflow automations, business systems, and web applications** designed around real operational problems.
+
+My work combines:
+
+* 🤖 AI & AI automation
+* ⚙️ Workflow automation
+* 🔗 API & application integrations
+* 📊 CRM & business systems
+* 🧋 Custom POS & inventory systems
+* 🌐 Web development
+* 🛠️ Technical troubleshooting
+
+My technical foundation includes **11+ years in electronics manufacturing and quality assurance**, giving me a process-driven approach to troubleshooting, documentation, root-cause analysis, and continuous improvement.
+
+</td>
+
+<td width="40%">
+
+### `CURRENT FOCUS`
 
 ```text
-IDENTITY
-Jude Reyes
-
-ROLE
-Technical Virtual Assistant
-
-SPECIALIZATION
-AI Automation
-Workflow Engineering
-Business Systems
-Web Development
-
-APPROACH
-ANALYZE → BUILD → TEST → DEBUG → OPTIMIZE
+AI SYSTEMS        ████████████
+AUTOMATION        ████████████
+INTEGRATIONS      ██████████░░
+BUSINESS SYSTEMS  ██████████░░
+WEB DEVELOPMENT   █████████░░░
 ```
 
-I build **practical intelligent systems** that connect AI, automation, business processes, and digital tools.
+**Build philosophy**
 
-My work ranges from **AI assistants and automated workflows to POS systems, inventory platforms, CRM integrations, and web applications.**
+`ANALYZE`
 
-My technical foundation is strengthened by **11+ years in electronics manufacturing and quality assurance**, where troubleshooting, process discipline, documentation, and continuous improvement were part of everyday work.
+↓
+
+`BUILD`
+
+↓
+
+`TEST`
+
+↓
+
+`DEBUG`
+
+↓
+
+`OPTIMIZE`
+
+</td>
+</tr>
+</table>
 
 ---
 
-# `02 / FLAGSHIP SYSTEM`
+# 🤖 JUNO
 
-## `JUNO`
+<div align="center">
 
-### `JUDE'S NEURAL OPERATIONS ASSISTANT`
+## `JUDE'S NEURAL OPERATIONS ASSISTANT`
 
-> **An evolving personal AI system built to think, remember, interact, and execute.**
+**My flagship AI project**
 
-JUNO is my flagship personal project exploring how an AI assistant can move beyond simple chat and become a **practical operational interface**.
+<a href="https://github.com/JudeReyes/JUNO">
+<img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-7C3AED?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://github.com/JudeReyes/JUNO-Live-Demo">
+<img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+</div>
+
+JUNO is my personal AI assistant project exploring how **AI, memory, tools, voice interaction, and workflow automation** can operate together inside one interface.
+
+### 🧠 Core Architecture
 
 ```text
-                         ┌───────────────┐
-                         │     JUNO      │
-                         │   AI CORE     │
-                         └───────┬───────┘
-                                 │
-             ┌───────────────────┼───────────────────┐
-             │                   │                   │
-             ▼                   ▼                   ▼
-        ┌─────────┐         ┌─────────┐         ┌─────────┐
-        │ MEMORY  │         │  TOOLS  │         │  VOICE  │
-        └────┬────┘         └────┬────┘         └────┬────┘
-             │                   │                   │
-             └───────────────────┼───────────────────┘
-                                 ▼
-                       ┌──────────────────┐
-                       │ WORKFLOW ENGINE  │
-                       └────────┬─────────┘
-                                ▼
-                       ┌──────────────────┐
-                       │     ACTIONS      │
-                       └──────────────────┘
+                    ┌─────────────────┐
+                    │      JUNO       │
+                    │    AI CORE      │
+                    └────────┬────────┘
+                             │
+             ┌───────────────┼───────────────┐
+             │               │               │
+             ▼               ▼               ▼
+        ┌─────────┐     ┌─────────┐     ┌─────────┐
+        │ MEMORY  │     │  TOOLS  │     │  VOICE  │
+        └─────────┘     └─────────┘     └─────────┘
+             │               │               │
+             └───────────────┼───────────────┘
+                             ▼
+                    ┌─────────────────┐
+                    │ WORKFLOW ENGINE │
+                    └─────────────────┘
 ```
 
 ### Capabilities
 
-`AI CONVERSATION`
-`PERSISTENT MEMORY`
-`COMMAND ROUTING`
-`TOOL INTEGRATION`
-`VOICE INPUT`
-`TEXT-TO-SPEECH`
-`FILE HANDLING`
-`AI FALLBACK`
-`SYSTEM TOOLS`
-`WORKFLOW MODES`
+| System       | Function                                  |
+| ------------ | ----------------------------------------- |
+| 🧠 AI        | Conversational AI & intelligent responses |
+| 💾 Memory    | Persistent user/context memory            |
+| 🔧 Tools     | Calculator, system and utility tools      |
+| 🎙️ Voice    | Microphone input & voice interaction      |
+| 🔊 Speech    | Text-to-speech                            |
+| 📎 Files     | File attachment & processing              |
+| ⚙️ Routing   | Command and tool routing                  |
+| 🔄 Workflows | Task-specific operating modes             |
 
-### Technology
+### Tech Stack
 
-`Python` `Flask` `Google Gemini` `JavaScript` `HTML` `CSS` `REST APIs`
-
-**SOURCE**
-
-→ https://github.com/JudeReyes/JUNO
-
-**LIVE DEMO**
-
-→ https://github.com/JudeReyes/JUNO-Live-Demo
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square\&logo=google\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 
 ---
 
-# `03 / BUSINESS SYSTEM`
+# 🧋 SORELLA TEA POS
 
-## `SORELLA TEA`
+<div align="center">
 
-### `TOUCH POS • INVENTORY • COSTING • OPERATIONS`
+### `TOUCH POS · INVENTORY · COSTING · BUSINESS SYSTEM`
 
-A custom business platform designed around the operational workflow of a milk tea business.
+<a href="https://github.com/JudeReyes/sorella-tea-pos-inventory">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-EC4899?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-Instead of treating POS, inventory, and costing as separate processes, the system connects them into one workflow.
+</div>
+
+A custom business system connecting **orders, recipes, ingredients, inventory, costing, expenses, and reporting**.
 
 ```text
-                  CUSTOMER ORDER
-                        │
-                        ▼
-                ┌──────────────┐
-                │     POS      │
-                └──────┬───────┘
-                       │
-                       ▼
-                ┌──────────────┐
-                │   PRODUCT    │
-                │   VARIANT    │
-                └──────┬───────┘
-                       │
-                       ▼
-                ┌──────────────┐
-                │    RECIPE    │
-                └──────┬───────┘
-                       │
-                       ▼
-                ┌──────────────┐
-                │  INVENTORY   │
-                └──────┬───────┘
-                       │
-                       ▼
-                ┌──────────────┐
-                │   COSTING    │
-                └──────┬───────┘
-                       │
-                       ▼
-                ┌──────────────┐
-                │   REPORTS    │
-                └──────────────┘
+CUSTOMER
+   ↓
+┌─────────────┐
+│     POS     │
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│   RECIPE    │
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│  INVENTORY  │
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│   COSTING   │
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│   REPORTS   │
+└─────────────┘
 ```
 
-### SYSTEM FEATURES
+### Features
 
-* Touch-friendly ordering
-* Custom menu configuration
-* Product variants
-* Cash + GCash tracking
-* Recipe-based costing
-* Ingredient deduction
-* Inventory monitoring
-* Reorder tracking
-* Expense tracking
-* Daily summaries
-* Monthly summaries
-* Backup and restore
-* Tablet/iPad interface
+`Touch POS` · `Menu Management` · `Product Variants` · `Cash / GCash`
+`Recipe Costing` · `Inventory Tracking` · `Ingredient Deduction`
+`Expenses` · `Daily Reports` · `Monthly Reports` · `Backup / Restore`
 
-### TECHNOLOGY
+**Built with**
 
-`HTML` `CSS` `JavaScript` `Excel` `Netlify`
-
-→ **Repository:** https://github.com/JudeReyes/sorella-tea-pos-inventory
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square\&logo=netlify\&logoColor=white)
 
 ---
 
-# `04 / AUTOMATION ENGINEERING`
+# ⚡ AUTOMATION LAB
 
-## `LEAD → CRM → NOTIFICATION`
+## `LEAD CAPTURE → CRM`
 
-```text
-GOOGLE FORMS
-      │
-      ▼
-    ZAPIER
-      │
- ┌────┼─────────────┐
- ▼    ▼             ▼
-CRM  SHEETS        GMAIL
- │
- ▼
-SLACK
-```
+<div align="center">
 
-### SYSTEM COMPONENTS
+`GOOGLE FORMS` → `ZAPIER` → `HUBSPOT` → `GOOGLE SHEETS` → `GMAIL` → `SLACK`
 
-`Lead Capture`
-`CRM Automation`
-`Data Mapping`
-`Record Creation`
-`Cross-Platform Synchronization`
-`Automated Notifications`
-`Workflow Testing`
-`Debugging`
+</div>
 
-**STACK**
+**Implemented**
 
-`Zapier` `HubSpot` `Google Sheets` `Gmail` `Slack`
+`Multi-Step Automation` · `CRM Record Creation` · `Data Mapping`
+`Cross-Platform Sync` · `Automated Notifications` · `Workflow Debugging`
 
 ---
 
 ## `CLIENT BOOKING PIPELINE`
 
-```text
-FORM
- ↓
-DATA
- ↓
-MAKE.COM
- ↓
-NOTION
- ↓
-CALENDAR
- ↓
-MEET
-```
+<div align="center">
 
-Automates client intake, data organization, scheduling, and meeting creation.
+`GOOGLE FORMS` → `SHEETS` → `MAKE.COM` → `NOTION` → `CALENDAR` → `MEET`
 
-**STACK**
+</div>
 
-`Make.com` `Notion` `Google Workspace`
+**Implemented**
+
+`Scenario Design` · `Data Transformation` · `Notion Integration`
+`Calendar Automation` · `Date/Time Handling` · `Timezone Troubleshooting`
 
 ---
 
-# `05 / DIGITAL SYSTEMS`
+# 🌐 WEB SYSTEMS
 
-## `WEB`
+<table>
+<tr>
+<td width="50%">
 
-### Maple & Bean Coffee
+### ☕ Maple & Bean Coffee
 
-Responsive coffee shop website built with:
+Responsive coffee shop website.
 
-`HTML5` `CSS3` `JavaScript` `Git` `GitHub` `Netlify`
+**Stack**
 
-→ https://github.com/JudeReyes/coffee-shop-landing-page
+`HTML5` `CSS3` `JavaScript` `Git` `Netlify`
 
-### WordPress Business Website
+<a href="https://github.com/JudeReyes/coffee-shop-landing-page">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0A84FF?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🌍 WordPress Business Website
+
+Responsive business website using:
 
 `WordPress` `Elementor` `WPForms` `Popup Maker`
 
-Responsive business website with custom sections, forms, interactive elements, and mobile optimization.
+Focus:
+
+`Responsive UI` `Forms` `Plugins` `Troubleshooting`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `BUSINESS OPERATIONS`
+# 🧩 BUSINESS SYSTEMS
 
-### Notion Business Operating System
-
-A centralized workspace combining:
-
-`CRM`
-`Task Management`
-`Invoice Tracking`
-`SOP Library`
-`Content Planning`
-`Relational Databases`
-`Linked Database Views`
-
----
-
-# `06 / TECHNOLOGY MATRIX`
-
-| DOMAIN               | TECHNOLOGIES                          |
-| -------------------- | ------------------------------------- |
-| **AI**               | Gemini · ChatGPT · Claude · AI APIs   |
-| **Automation**       | Make.com · Zapier · n8n               |
-| **Integration**      | APIs · Webhooks · JSON · Data Mapping |
-| **Development**      | Python · Flask · JavaScript           |
-| **Frontend**         | HTML5 · CSS3                          |
-| **Web**              | WordPress · Elementor · Netlify       |
-| **Business Systems** | HubSpot · Notion · Google Workspace   |
-| **Version Control**  | Git · GitHub                          |
-
----
-
-# `07 / ENGINEERING MINDSET`
-
-### `PROCESS > COMPLEXITY`
-
-My background in electronics manufacturing and quality assurance taught me to approach problems systematically.
+### NOTION BUSINESS OPERATING SYSTEM
 
 ```text
-                 PROBLEM
-                    │
-                    ▼
-                 ANALYZE
-                    │
-                    ▼
-                  DESIGN
-                    │
-                    ▼
-                   BUILD
-                    │
-                    ▼
-                   TEST
-                    │
-                    ▼
-                  DEBUG
-                    │
-                    ▼
-                 IMPROVE
-                    │
-                    ▼
-                DOCUMENT
-```
-
-I bring that same mindset into digital systems.
-
-**Troubleshooting**
-**Root-Cause Analysis**
-**Process Improvement**
-**Quality Control**
-**Documentation**
-**System Testing**
-
----
-
-# `08 / CURRENT DEVELOPMENT`
-
-```text
-╔══════════════════════════════════════════════╗
-║              CURRENT FOCUS                   ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║  AI ASSISTANTS              ████████████     ║
-║  AI AUTOMATION              ████████████     ║
-║  WORKFLOW SYSTEMS           ████████████     ║
-║  API INTEGRATIONS           ██████████░░     ║
-║  BUSINESS AUTOMATION        ██████████░░     ║
-║  WEB DEVELOPMENT            █████████░░░     ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
-
-Currently exploring and building around:
-
-**AI assistants · AI automation · APIs · workflow orchestration · CRM automation · business systems · custom POS · inventory systems · web applications**
-
----
-
-# `09 / PROJECT ARCHIVE`
-
-### `JUNO`
-
-**AI Assistant / Automation System**
-
-### `JUNO-Live-Demo`
-
-**Interactive AI Assistant Interface**
-
-### `sorella-tea-pos-inventory`
-
-**Touch POS + Inventory System**
-
-### `coffee-shop-landing-page`
-
-**Responsive Front-End Website**
-
-### `maple-and-bean-coffee-website`
-
-**WordPress Business Website**
-
----
-
-# `10 / CONNECT`
-
-```text
-PORTFOLIO
-https://jude-va-portfolio.lovable.app
-
-LINKEDIN
-https://www.linkedin.com/in/judereyes/
-
-GITHUB
-https://github.com/JudeReyes
-
-EMAIL
-jude.reyes0618@gmail.com
+┌────────────────────────────────────────────┐
+│              BUSINESS OS                   │
+├────────────────────────────────────────────┤
+│  CRM              TASK MANAGEMENT          │
+│  INVOICES         SOP LIBRARY              │
+│  CONTENT          RELATIONAL DATABASES     │
+│  LINKED RECORDS   MULTIPLE VIEWS           │
+└────────────────────────────────────────────┘
 ```
 
 ---
 
-<p align="center">
+# 🛠️ TECH STACK
 
-### `BUILDING PRACTICAL INTELLIGENCE FOR REAL-WORLD WORKFLOWS.`
+<div align="center">
+
+### AI / AUTOMATION
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark">
+
+<br>
+
+![Google Gemini](https://img.shields.io/badge/Gemini-AI-8E75B2?style=for-the-badge)
+![Zapier](https://img.shields.io/badge/Zapier-Automation-FF4A00?style=for-the-badge)
+![Make](https://img.shields.io/badge/Make-Integration-6D00CC?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-Workflow-EA4B71?style=for-the-badge)
+
+### BUSINESS SYSTEMS
+
+`HubSpot` · `Notion` · `Google Workspace` · `Slack` · `Microsoft 365`
+
+### WEB
+
+`WordPress` · `Elementor` · `Netlify` · `Git` · `GitHub`
+
+</div>
+
+---
+
+# 🧠 ENGINEERING MINDSET
+
+> **Technology is useful when it solves an actual problem.**
+
+My approach comes from a technical background in electronics manufacturing and quality assurance.
+
+```text
+PROBLEM
+   ↓
+ANALYZE
+   ↓
+DESIGN
+   ↓
+BUILD
+   ↓
+TEST
+   ↓
+DEBUG
+   ↓
+OPTIMIZE
+   ↓
+DOCUMENT
+```
+
+**Technical Troubleshooting** · **Root-Cause Analysis** · **Quality Control** · **Process Improvement** · **Documentation**
+
+---
+
+# 📡 CURRENTLY BUILDING
+
+<div align="center">
+
+| AREA                   | STATUS   |
+| ---------------------- | -------- |
+| 🤖 AI Assistants       | `ACTIVE` |
+| ⚡ AI Automation        | `ACTIVE` |
+| 🔗 API Integrations    | `ACTIVE` |
+| 🔄 Workflow Systems    | `ACTIVE` |
+| 📊 Business Automation | `ACTIVE` |
+| 🌐 Web Systems         | `ACTIVE` |
+
+</div>
+
+---
+
+# 📂 PROJECT ARCHIVE
+
+<a href="https://github.com/JudeReyes/JUNO">
+<img src="https://img.shields.io/badge/JUNO-AI_ASSISTANT-7C3AED?style=for-the-badge">
+</a>
+
+<a href="https://github.com/JudeReyes/JUNO-Live-Demo">
+<img src="https://img.shields.io/badge/JUNO_LIVE_DEMO-06B6D4?style=for-the-badge">
+</a>
+
+<a href="https://github.com/JudeReyes/sorella-tea-pos-inventory">
+<img src="https://img.shields.io/badge/SORELLA_TEA_POS-EC4899?style=for-the-badge">
+</a>
+
+<a href="https://github.com/JudeReyes/coffee-shop-landing-page">
+<img src="https://img.shields.io/badge/COFFEE_WEBSITE-0A84FF?style=for-the-badge">
+</a>
+
+---
+
+<div align="center">
+
+## `BUILDING PRACTICAL INTELLIGENCE.`
+
+### AI · AUTOMATION · SYSTEMS · WEB
+
+<br>
+
+<a href="mailto:jude.reyes0618@gmail.com">
+<img src="https://img.shields.io/badge/CONTACT_ME-0A84FF?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<br><br>
 
 **Jude Reyes**
+`Technical Virtual Assistant · AI Automation · Workflow Systems`
 
-`Technical Virtual Assistant` · `AI Automation` · `Workflow Systems`
-
-</p>
+</div>
